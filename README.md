@@ -15,3 +15,23 @@ And the histogram for the June statistics as follows:
 
 <img width="563" alt="JuneFig" src="https://user-images.githubusercontent.com/79733383/116792850-3ae50700-aa91-11eb-96f0-be82bdd800d7.PNG">
 
+Both the table & the figure tell us the following:
+   1. This dataset has 1700 readings for the month of June
+   2. The range of temperatures for these readings are between 64F & 85F, where the average June temperature is 74F
+   3. The temperature distribution for June across the dataset is not uniform, also if we apply the interquartile functions on the temperatures, we will find that both the maximum & minimum temperatures lie in the upper & lower outliers zones of the data.
+2. The analysis statistics for December as as follows:
+
+<img width="241" alt="December" src="https://user-images.githubusercontent.com/79733383/116793101-ad0a1b80-aa92-11eb-9eb2-57a6c39344f8.PNG">
+
+<img width="584" alt="DecFig" src="https://user-images.githubusercontent.com/79733383/116793114-bb583780-aa92-11eb-835c-090d948b9da9.PNG">
+
+Both the table & the figure tell us the following:
+   1. This dataset has 1517 readings for the month of December
+   2. The range of temperatures for these readings are between 56F & 83F, where the average December temperature is 71.04F
+   3. The temperature distribution for December across the dataset is also not uniform, and applying the interquartile functions shows that both the maximum & minimum readings are in the upper & lower outlier ranges
+## Summary 
+The analysis made on the months of June & December show that although the temperature variation across both months is relatively low, it is still not completely uniform.
+
+To be able to make a more informed decision, we could try the following:
+1. Make a similar study using the precipitation values for both months as well as temperature, to show the rain statistics
+2. take a closer look at the outliers of teh dataset & determine their occurance rate 
